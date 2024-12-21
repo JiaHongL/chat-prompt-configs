@@ -1,0 +1,55 @@
+[
+  {
+    "id": "ig-button",
+    "href": "https://www.instagram.com/dearfine_metal",
+    "labelTW": "緻金工 DearFine",
+    "labelEN": "DearFine"
+  },
+  {
+    "id": "buymeacoffee-button",
+    "href": "https://www.buymeacoffee.com/Joe.lin",
+    "imageSrc": "https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Joe.lin&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff",
+  },
+  {
+    "id": "threads-button",
+    "href": "https://www.threads.net/@dearfine_metal",
+    "labelTW": "緻金工 DearFine",
+    "labelEN": "DearFine"
+  },
+  {
+    "id": "pinkoi-button",
+    "href": "https://www.pinkoi.com/store/dearfine",
+    "labelTW": "緻金工 DearFine",
+    "labelEN": "DearFine"
+  },
+  {
+    "id": "pinkoi-button",
+    "href": "https://www.pinkoi.com/product/yqc8ddKe",
+    "labelTW": "緻金工 💍 🌼 🆕",
+    "labelEN": "DearFine 💍 🌼 🆕"
+  },
+  {
+    "id": "pinkoi-button",
+    "href": "https://www.pinkoi.com/product/4CfgRbAm",
+    "labelTW": "緻金工 🌼 ✨",
+    "labelEN": "DearFine 🌼 ✨"
+  },
+  {
+    "id": "pinkoi-button",
+    "href": "https://www.pinkoi.com/product/dqAqgjxF",
+    "labelTW": "緻金工 🦋 ✨",
+    "labelEN": "DearFine 🦋 ✨"
+  },
+  {
+    "id": "pinkoi-button",
+    "href": "https://www.pinkoi.com/product/g8d7p233",
+    "labelTW": "緻金工 💍 ✨",
+    "labelEN": "DearFine 💍 ✨"
+  },
+  {
+    "id": "pinkoi-button",
+    "href": "https://www.pinkoi.com/product/zL3M89iq",
+    "labelTW": "緻金工 💍 💍 ✨",
+    "labelEN": "DearFine 💍 💍 ✨"
+  }
+]
